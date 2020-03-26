@@ -1,0 +1,14 @@
+{
+	"name": "David Perelman",
+	"email": "david@gmail.com",
+	"password": "12345678"
+}
+
+{
+    "_id": "5e7bdb19f5033943705973f1",
+    "name": "David Perelman",
+    "email": "david@gmail.com",
+    "password": "$2a$10$0jaYX6KJvD8K5KLSdn5PCe6gEDW5xvA8ebmAgSo7TfcmCKCOKNxbi",
+    "date": "2020-03-25T22:28:41.950Z",
+    "__v": 0
+}
